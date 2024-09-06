@@ -7,7 +7,7 @@
 
 - [☄・Deploys](#deploys)
 - [🔰・Features](#features)
-- [🌌・Discord](https://discord.gg/zM6ZN9UfRs)
+- [🌌・Discord](https://discord.gg/jSvYxahuYH)
 - [🎉・Setting up](#setup)
 - [⚙・Config](#config)
 ## <a id="deploys"></a>☄ » Deploys
@@ -23,7 +23,7 @@
 
 # <a id="config"></a>⚙ » Config
 
-If you want to change the config, open up [config.json](https://discord.gg/zM6ZN9UfRs) and locate it at the top. There you can configure the following:
+If you want to change the config, open up [config.json](https://discord.gg/jSvYxahuYH) and locate it at the top. There you can configure the following:
 
 ```js
         token: 'Put-Token-Here',
